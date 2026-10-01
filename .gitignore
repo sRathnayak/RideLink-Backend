@@ -18,7 +18,7 @@ target/
 *.iws
 *.iml
 *.ipr
-out/
+
 
 ### NetBeans ###
 /nbproject/private/
@@ -37,42 +37,9 @@ build/
 .env
 application-local.properties
 application-local.yml
-application-xampp.properties
-application-secrets.properties
-application-secrets.yml
-*.env
-.env.*
-!.env.example
+
 
 ### OS Generated Files ###
 .DS_Store
 Thumbs.db
-desktop.ini
 
-### Log Files ###
-*.log
-logs/
-hs_err_pid*
-replay_pid*
-
-### Maven / Java Build Artifacts ###
-*.class
-*.jar
-*.war
-*.ear
-*.nar
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-release.properties
-dependency-reduced-pom.xml
-buildNumber.properties
-.mvn/timing.properties
-.flattened-pom.xml
-
-### Temporary Files ###
-*.tmp
-*.bak
-*.swp
-*~
