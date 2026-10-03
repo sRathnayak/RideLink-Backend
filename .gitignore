@@ -19,6 +19,7 @@ target/
 *.iml
 *.ipr
 
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -37,9 +38,9 @@ build/
 application-local.properties
 application-local.yml
 
+ main
 ### OS Generated Files ###
 .DS_Store
 Thumbs.db
 
-### Log Files ###
-*.log
+ main
